@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+  @apply font-bold text-xl mb-7 text-center;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+.titlefot {
+  @apply text-white text-lg font-bold leading-7;
+}
+
+.deskfot {
+  @apply text-sm leading-7;
+}
