@@ -1,10 +1,8 @@
 <template>
-    <div>
-        <Hero />
-        <About />
-        <Project />
-        <Contact />
-    </div>
+    <Hero />
+    <About />
+    <Project />
+    <Contact />
 </template>
 <script>
 import About from '~~/components/About.vue';
