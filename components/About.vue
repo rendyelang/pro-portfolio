@@ -1,6 +1,6 @@
 <template>
     <div id="about" class="text-center bg-gray-100 py-14 font-body">
-        <div class="container">
+        <div data-aos="fade-up" data-aos-duration="1000" class="container">
             <p class="title mt-5">Tentang Saya</p>
             <p class="leading-6">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio ex ipsam nesciunt. Nihil
                 nam

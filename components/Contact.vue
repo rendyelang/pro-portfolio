@@ -1,6 +1,6 @@
 <template>
     <div id="contact" class="py-14 font-body bg-gray-100">
-        <div class="container">
+        <div data-aos="fade-up" data-aos-duration="1000" class="container">
             <p class="title mt-5">Hubungi Saya</p>
             <form action="" class="flex flex-col gap-y-7">
                 <input class="rounded-lg p-[14px] focus:outline-none" type="text" placeholder="Email (Diperlukan)">

@@ -11,7 +11,7 @@ import Project from '~~/components/Project.vue';
 import Contact from '~~/components/Contact.vue';
 
 export default {
-    components: { Hero, About, Project, Contact }
+    components: { Hero, About, Project, Contact },
 }
 </script>
 <style>

@@ -1,5 +1,5 @@
 <template>
-    <div id="project" class="container py-14 font-body">
+    <div data-aos="fade-up" data-aos-duration="1000" id="project" class="container py-14 font-body">
         <p class="title mt-5">Proyek Contoh</p>
         <div
             class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:gap-x-28 lg:gap-x-14 md:gap-x-9 sm:gap-x-6 gap-y-10">
