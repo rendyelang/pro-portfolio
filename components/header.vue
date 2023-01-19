@@ -18,7 +18,8 @@
                 <div class="flex justify-between">
                     <nuxt-link class="text-white mr-20 tracking-[0.4em] text-[22px]" to="/">NINJA KEN</nuxt-link>
                     <svg @click="show = !show" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                        stroke-width="1.5" stroke="currentColor" class="w-9 h-9 text-white block lg:hidden">
+                        stroke-width="1.5" stroke="currentColor"
+                        class="w-9 h-9 text-white block lg:hidden cursor-pointer">
                         <path stroke-linecap="round" stroke-linejoin="round"
                             d="M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25" />
                     </svg>
